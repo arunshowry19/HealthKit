@@ -1,3 +1,4 @@
-HealthKit
+HMHealthKit
 =========
-Created the repository on github.
+
+This proof of concept is to interact with the apple Health Kit.  
