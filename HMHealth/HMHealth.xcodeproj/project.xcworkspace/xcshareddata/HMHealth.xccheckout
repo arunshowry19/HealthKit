@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5ED5190-6662-4612-929B-4277A762ED0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HMHealth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC17024B3CAD6F17E86546606E9D3887F4A02CB9</key>
+		<string>https://github.com/arunshowry19/HealthKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HMHealth/HMHealth.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC17024B3CAD6F17E86546606E9D3887F4A02CB9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arunshowry19/HealthKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC17024B3CAD6F17E86546606E9D3887F4A02CB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC17024B3CAD6F17E86546606E9D3887F4A02CB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HealthKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
